@@ -1,4 +1,7 @@
-# Yolo-simple
+# Yolov3
+
+Please use the jupyter notebook to view the work
+
 todo:
 anchors and params
 
