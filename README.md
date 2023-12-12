@@ -1,9 +1,5 @@
-# Yolo
-This project will implement yolo using darknet and a pre-trained coco model.
-I will create the model structure, load the coco weights into the format of my yolo model, and run detection on input images.
-
-
-
+# Yolo-simple
+todo:
 anchors and params
 
 model
